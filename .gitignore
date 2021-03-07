@@ -6,5 +6,5 @@
 !/.editorconfig
 !/.gitignore
 
-!/package-scripts.yaml
+!/package-scripts.js
 !/package.json

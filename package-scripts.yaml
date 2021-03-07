@@ -1,4 +1,0 @@
-
-scripts:
-  build: tsc typescript/*.ts
-  watch: tsc --watch typescript/*.ts
